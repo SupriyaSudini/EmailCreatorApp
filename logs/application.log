@@ -1,0 +1,58 @@
+2023-10-26 23:03:54,877 [main] INFO  EmailLabApp - Reading input file: src/main/resources/input.txt
+2023-10-26 23:03:54,884 [main] INFO  EmailLabApp - Reading email template from file: src/main/resources/email_template.txt
+2023-10-26 23:03:54,884 [main] INFO  EmailLabApp - Sending email to: jbutler@gmail.com
+2023-10-26 23:03:55,062 [main] INFO  EmailLabApp - SMTP Host: smtp.gmail.com
+2023-10-26 23:03:55,062 [main] INFO  EmailLabApp - SMTP Port: 587
+2023-10-26 23:03:55,062 [main] INFO  EmailLabApp - SMTP Username: supriyasudini165@gmail.com
+2023-10-26 23:03:56,154 [main] INFO  EmailLabApp - Sent email to: jbutler@gmail.comSuccessfully
+2023-10-26 23:03:56,163 [main] INFO  EmailLabApp - Reading email template from file: src/main/resources/email_template.txt
+2023-10-26 23:03:56,163 [main] INFO  EmailLabApp - Sending email to: josephine_darakjy@darakjy.org
+2023-10-26 23:03:56,168 [main] INFO  EmailLabApp - SMTP Host: smtp.gmail.com
+2023-10-26 23:03:56,168 [main] INFO  EmailLabApp - SMTP Port: 587
+2023-10-26 23:03:56,168 [main] INFO  EmailLabApp - SMTP Username: supriyasudini165@gmail.com
+2023-10-26 23:03:56,972 [main] INFO  EmailLabApp - Sent email to: josephine_darakjy@darakjy.orgSuccessfully
+2023-10-26 23:03:56,976 [main] INFO  EmailLabApp - Reading email template from file: src/main/resources/email_template.txt
+2023-10-26 23:03:56,976 [main] INFO  EmailLabApp - Sending email to: art@venere.org
+2023-10-26 23:03:56,987 [main] INFO  EmailLabApp - SMTP Host: smtp.gmail.com
+2023-10-26 23:03:56,988 [main] INFO  EmailLabApp - SMTP Port: 587
+2023-10-26 23:03:56,988 [main] INFO  EmailLabApp - SMTP Username: supriyasudini165@gmail.com
+2023-10-26 23:03:57,796 [main] INFO  EmailLabApp - Sent email to: art@venere.orgSuccessfully
+2023-10-26 23:03:57,797 [main] INFO  EmailLabApp - Reading email template from file: src/main/resources/email_template.txt
+2023-10-26 23:03:57,797 [main] INFO  EmailLabApp - Sending email to: supriyasudini16@gmail.com
+2023-10-26 23:03:57,799 [main] INFO  EmailLabApp - SMTP Host: smtp.gmail.com
+2023-10-26 23:03:57,799 [main] INFO  EmailLabApp - SMTP Port: 587
+2023-10-26 23:03:57,799 [main] INFO  EmailLabApp - SMTP Username: supriyasudini165@gmail.com
+2023-10-26 23:03:58,816 [main] INFO  EmailLabApp - Sent email to: supriyasudini16@gmail.comSuccessfully
+2023-10-26 23:03:58,817 [main] INFO  EmailLabApp - Email processing completed.
+2023-10-26 23:05:02,624 [main] INFO  EmailLabApp - SMTP Host: smtp.gmail.com
+2023-10-26 23:05:02,626 [main] INFO  EmailLabApp - SMTP Port: 587
+2023-10-26 23:05:02,626 [main] INFO  EmailLabApp - SMTP Username: supriyasudini165@gmail.com
+2023-10-30 23:36:39,962 [main] INFO  EmailLabApp - Reading input file: src/main/resources/input.txt
+2023-10-30 23:36:39,967 [main] INFO  EmailLabApp - Reading email template from file: src/main/resources/email_template.txt
+2023-10-30 23:36:39,967 [main] INFO  EmailLabApp - Sending email to: jbutler@gmail.com
+2023-10-30 23:36:40,092 [main] INFO  EmailLabApp - SMTP Host: smtp.gmail.com
+2023-10-30 23:36:40,093 [main] INFO  EmailLabApp - SMTP Port: 587
+2023-10-30 23:36:40,093 [main] INFO  EmailLabApp - SMTP Username: supriyasudini165@gmail.com
+2023-10-30 23:36:41,905 [main] INFO  EmailLabApp - Sent email to: jbutler@gmail.comSuccessfully
+2023-10-30 23:36:41,906 [main] INFO  EmailLabApp - Reading email template from file: src/main/resources/email_template.txt
+2023-10-30 23:36:41,906 [main] INFO  EmailLabApp - Sending email to: josephine_darakjy@darakjy.org
+2023-10-30 23:36:41,913 [main] INFO  EmailLabApp - SMTP Host: smtp.gmail.com
+2023-10-30 23:36:41,914 [main] INFO  EmailLabApp - SMTP Port: 587
+2023-10-30 23:36:41,914 [main] INFO  EmailLabApp - SMTP Username: supriyasudini165@gmail.com
+2023-10-30 23:36:43,091 [main] INFO  EmailLabApp - Sent email to: josephine_darakjy@darakjy.orgSuccessfully
+2023-10-30 23:36:43,092 [main] INFO  EmailLabApp - Reading email template from file: src/main/resources/email_template.txt
+2023-10-30 23:36:43,092 [main] INFO  EmailLabApp - Sending email to: art@venere.org
+2023-10-30 23:36:43,098 [main] INFO  EmailLabApp - SMTP Host: smtp.gmail.com
+2023-10-30 23:36:43,098 [main] INFO  EmailLabApp - SMTP Port: 587
+2023-10-30 23:36:43,098 [main] INFO  EmailLabApp - SMTP Username: supriyasudini165@gmail.com
+2023-10-30 23:36:44,360 [main] INFO  EmailLabApp - Sent email to: art@venere.orgSuccessfully
+2023-10-30 23:36:44,361 [main] INFO  EmailLabApp - Reading email template from file: src/main/resources/email_template.txt
+2023-10-30 23:36:44,361 [main] INFO  EmailLabApp - Sending email to: supriyasudini16@gmail.com
+2023-10-30 23:36:44,363 [main] INFO  EmailLabApp - SMTP Host: smtp.gmail.com
+2023-10-30 23:36:44,364 [main] INFO  EmailLabApp - SMTP Port: 587
+2023-10-30 23:36:44,364 [main] INFO  EmailLabApp - SMTP Username: supriyasudini165@gmail.com
+2023-10-30 23:36:45,588 [main] INFO  EmailLabApp - Sent email to: supriyasudini16@gmail.comSuccessfully
+2023-10-30 23:36:45,589 [main] INFO  EmailLabApp - Email processing completed.
+2023-10-30 23:37:14,385 [main] INFO  EmailLabApp - SMTP Host: smtp.gmail.com
+2023-10-30 23:37:14,387 [main] INFO  EmailLabApp - SMTP Port: 587
+2023-10-30 23:37:14,387 [main] INFO  EmailLabApp - SMTP Username: supriyasudini165@gmail.com
