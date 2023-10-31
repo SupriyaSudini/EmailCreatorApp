@@ -136,8 +136,8 @@ public class EmailLabApp {
         
         final String smtpHost = "smtp.gmail.com";
         final String smtpPort = "587";
-        final String smtpUsername = "supriyasudini165@gmail.com";
-        final String smtpPassword = "skaj pbdm zojk vbni";
+        final String smtpUsername = "XXXXXXXXXXXXX@gmail.com";
+        final String smtpPassword = "xxxx xxxx xxxx xxxx";
         
         final Logger logger = LogManager.getLogger(EmailLabApp.class);
        
